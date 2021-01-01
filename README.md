@@ -14,7 +14,7 @@
   
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=KritiThakrar&show_icons=true&theme=tokyonight" alt="Kriti Thakrar GitHub Statistics" width="80%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritiThakrar&theme=dark" alt="Languages Used" width=40%>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritiThakrar&theme=dark" alt="Languages Used" width=40%> -->
  </p>
  
 # Contact Me <img src="https://media.giphy.com/media/9tXsPh8IcW68X23udg/giphy.gif" width="80px">
