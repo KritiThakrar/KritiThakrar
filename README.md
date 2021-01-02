@@ -12,8 +12,8 @@
 
 <!--![Code](https://github.com/KritiThakrar/KritiThakrar/blob/master/Images/background.jpg)-->
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KritiThakrar&show_icons=true&theme=tokyonight" alt="Kriti Thakrar GitHub Statistics" width="100%">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KritiThakrar&show_icons=true&theme=tokyonight" alt="Kriti Thakrar GitHub Statistics" width="90%">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritiThakrar&theme=dark" alt="Languages Used" width=40%> -->
  </p>
  
