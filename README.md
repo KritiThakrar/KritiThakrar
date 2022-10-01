@@ -3,7 +3,7 @@
 ![Kriti Thakrar](https://github.com/KritiThakrar/KritiThakrar/blob/master/Images/me.gif)
 
 ***
-<h4 align="center">👩‍💻I am a Student currently pursuing BCA at 🎓Symbiosis Institute of Computer Studies and Research, 🏫Pune.I started coding since I was 14 years old and since then I have been obsessed with coding. Do you see the charm of it? When you are trying out something new and you finally get the result of it after solving all the bugs or the output is correct on the first run itself. That’s what fascinates me the most.😉</h4>
+<h4 align="center">👩‍💻I am a Student currently pursuing MCA at 🎓Narsee Monjee Institute of Management Studies, 🏫Mumbai.I started coding since I was 14 years old and since then I have been obsessed with coding. Do you see the charm of it? When you are trying out something new and you finally get the result of it after solving all the bugs or the output is correct on the first run itself. That’s what fascinates me the most.😉</h4>
 <br>
 <br>
 <i>⚡ Fun fact: I am a Dancer and a Photographer too😁</i>
